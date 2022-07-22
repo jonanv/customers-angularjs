@@ -36,3 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ng serve --o
 ```
 
+## generate component
+```js
+ng generate component components/footer // ng g c components/footer
+```
